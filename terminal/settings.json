@@ -69,35 +69,11 @@
                 "name": "Prompt dei comandi"
             },
             {
-                "commandline": "ssh root@172.30.132.129 -p 22 -i ~/.ssh/id_rsa",
-                "guid": "{0c55a0af-31e0-4971-8ac9-cb38c560c6f9}",
-                "hidden": false,
-                "name": "edge1"
-            },
-            {
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
                 "hidden": false,
                 "name": "Ubuntu",
                 "source": "Windows.Terminal.Wsl",
                 "tabTitle": null
-            },
-            {
-                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
-                "hidden": false,
-                "name": "Azure Cloud Shell",
-                "source": "Windows.Terminal.Azure"
-            },
-            {
-                "guid": "{1cd79813-5972-56cb-badb-ba5ee12693c5}",
-                "hidden": false,
-                "name": "rancher-desktop",
-                "source": "Windows.Terminal.Wsl"
-            },
-            {
-                "guid": "{1bdae7ec-8ca6-5caa-8453-8b6fe78b2748}",
-                "hidden": false,
-                "name": "rancher-desktop-data",
-                "source": "Windows.Terminal.Wsl"
             }
         ]
     },
