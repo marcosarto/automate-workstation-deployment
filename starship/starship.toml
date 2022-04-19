@@ -1,0 +1,20 @@
+add_newline = true
+
+[character]
+success_symbol = "[➜](bold green) "
+error_symbol = "[➜](bold red) "
+
+[container]
+format = "[$symbol \\[$name\\]]($style) "
+
+[time]
+disabled = true
+
+[cmd_duration]
+disabled = true
+
+[directory]
+truncation_length = 8
+
+[hostname]
+disabled = true
