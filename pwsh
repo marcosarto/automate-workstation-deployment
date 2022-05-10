@@ -1,0 +1,5 @@
+powershell config : https://dev.to/animo/fish-like-autosuggestion-in-powershell-21ec
+
+`Invoke-Expression (&starship init powershell)
+Import-Module PSReadLine
+Set-PSReadLineOption -PredictionSource History`
